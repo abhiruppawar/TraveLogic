@@ -14,7 +14,7 @@ Give it a single prompt like:
 
 ...and the system runs the flight agent → hotel agent → itinerary agent → final response agent in sequence, streaming each agent's progress live in the UI, and finally saves the generated plan as a downloadable Markdown file.
 
-![Landing Page](assets/screenshots/landing-page.png)
+![Landing Page](landing-page.png)
 
 ---
 
