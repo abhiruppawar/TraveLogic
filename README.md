@@ -16,6 +16,9 @@ Give it a single prompt like:
 
 <img width="1837" height="768" alt="landing_page" src="https://github.com/user-attachments/assets/fc079ecd-871f-432f-b068-e0cee3768010" />
 
+<img width="1801" height="537" alt="agent_response" src="https://github.com/user-attachments/assets/b66ee897-42f4-42a1-9b26-78b19e064e3a" />
+
+
 
 
 ---
